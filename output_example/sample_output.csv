@@ -1,0 +1,6 @@
+﻿employee_id,name,department,salary,hire_date,email
+EMP001,John Smith,Sales,50000,2020-01-15,john@company.com
+EMP002,Jane Doe,IT,60000,2019-06-10,jane@company.com
+EMP003,Bob Johnson,HR,45000,2021-03-20,
+EMP004,Alice Brown,Finance,55000,2018-11-05,alice@company.com
+EMP005,Charlie Davis,IT,62000,2022-05-01,charlie@company.com
