@@ -1,0 +1,88 @@
+﻿SourceFile,PageNumber,Col1,Col2,Col3,Col4,Col5
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,METRIC,VALUE,STATUS,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Account Balance,EUR 0.00,CRITICAL,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Cumulative Deficit,"EUR -10,624.63",CRITICAL,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Monthly Deficit,EUR -966,CRITICAL,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Savings Rate,-19.5%,CRITICAL,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Emergency Fund,EUR 0.00,NONE,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,1,Health Score,15/100,POOR,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,2,METRIC,AMOUNT,MONTHLY AVG,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,2,Total Income,"EUR 54,505.99","EUR 4,955.09",,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,2,Total Expenses,"EUR 65,130.62","EUR 5,920.97",,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,2,Net Balance,"EUR -10,624.63",EUR -965.88,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,3,CATEGORY,AMOUNT,% OF BUDGET,TRANSACTIONS,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,3,Transfer,"EUR 38,273.88",58.8%,1155,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,3,Savings,"EUR 14,146.80",21.7%,705,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,3,Uncategorized,"EUR 12,709.94",19.5%,328,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,MONTH,INCOME,EXPENSES,NET,CUMULATIVE
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-01,"EUR 2,249","EUR 4,508","EUR -2,259","EUR -2,259"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-02,"EUR 2,501","EUR 4,061","EUR -1,560","EUR -3,819"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-03,EUR 993,"EUR 2,238","EUR -1,245","EUR -5,063"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-04,"EUR 2,036","EUR 2,899",EUR -863,"EUR -5,926"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-05,"EUR 2,448","EUR 3,151",EUR -702,"EUR -6,628"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-06,"EUR 5,517","EUR 5,794",EUR -277,"EUR -6,905"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-07,"EUR 9,734","EUR 10,559",EUR -825,"EUR -7,730"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-08,"EUR 5,110","EUR 5,614",EUR -504,"EUR -8,234"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-09,"EUR 3,318","EUR 3,625",EUR -307,"EUR -8,541"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-10,"EUR 17,822","EUR 18,606",EUR -784,"EUR -9,325"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,4,2025-11,"EUR 2,776","EUR 4,076","EUR -1,300","EUR -10,625"
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,SAVINGS RATE ANALYSIS,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,FINANCIAL HEALTH SCORE,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,Overall Score: 15/100 (POOR),,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,Income Stability: 10/25 | Savings Rate: 0/25 | Expense Control: 5/25 | Emergency Fund: 0/25,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,"Your account ranks in the bottom 1% for savings rate, bottom 5% for emergency fund, and top 10% for monthly",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,5,spending compared to European averages.,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,CRITICAL ISSUES & SOLUTIONS,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"1. 'To Theo new house' - EUR 18,573.40 (28.5% of spending)",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Status: Largest single expense category with unclear purpose,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Impact: Consuming more than 1/4 of total spending,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"Action Required: Immediately clarify if this is a loan, gift, rent contribution, or other obligation",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"Potential Savings: EUR 1,200-1,700/month if reduced or eliminated",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"2. Savings While in Deficit - EUR 14,146.80/month",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Status: Internal savings transfers while running monthly deficit of EUR 966,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Impact: Mathematically impossible to sustain long-term,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Action Required: Freeze ALL savings transfers immediately,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"Potential Savings: EUR 1,415/month can be redirected to deficit coverage",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"3. Uncategorized Spending - EUR 12,709.94 (19.5%)",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Status: 328 transactions with no category assigned,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Impact: Cannot identify hidden spending problems,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,Action Required: Immediately categorize all transactions,,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,6,"Potential Savings: EUR 500-1,000/month once problem areas identified",,,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,PHASE,TIMELINE,TARGET,ACTIONS,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,"Phase 1:
+Crisis
+Stabilization",Weeks 1-4,"EUR 2,200/month
+savings","- Freeze discretionary spending
+- Clarify ""Theo"" transfers
+- Recategorize expenses
+- Reduce cash withdrawals",
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,"Phase 2:
+Deficit
+Elimination",Weeks 5-12,"+EUR 2,400/month
+(Total: EUR 4,600)","- Create detailed budget
+- Stop online shopping
+- Stabilize income
+- Achieve BREAK-EVEN",
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,"Phase 3:
+Wealth
+Building",Months 4+,"EUR 1,000-1,500
+surplus/month","- Build EUR 5,000 fund (Q2)
+- Build EUR 17,762 fund (end 2026)
+- Establish new habits
+- Financial health restored",
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,SCENARIO,MONTH 6 STATUS,MONTH 12 STATUS,,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,No Action (Current Path),"Deficit: EUR -16,420
+Health: CRITICAL
+Fund: EUR 0","Deficit: EUR -22,000+
+Health: CRITICAL
+Crisis: LIKELY",,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,7,With Action Plan,"Surplus: EUR 1,000+
+Health: 45-50/100
+Fund: EUR 5,000 started","Surplus: EUR 1,000-1,500
+Health: 65-70/100
+Fund: EUR 17,762 complete",,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,8,METRIC,YOUR ACCOUNT,EUROPEAN AVG,YOUR STATUS,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,8,Savings Rate,-19.5%,+12%,BOTTOM 1%,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,8,Monthly Expenses,"EUR 5,921","EUR 2,000",TOP 10%,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,8,Emergency Fund,0 months,3 months,CRITICAL,
+FINANCIAL_DIAGNOSTIC_REPORT.pdf,8,Income Stability,18x variation,Low variation,POOR,
