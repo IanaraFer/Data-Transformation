@@ -1,24 +1,8 @@
-﻿SourceFile,PageNumber,Col1,Col2,Col3,Col4,Col5
+Account,Numberpage,Date, Details, Debit, Credit, Balance
 27th November 2025.PDF,1,7 Nov 2025,VDC-DUNNES CLONDAL,,49.64,540.84
 27th November 2025.PDF,1,10 Nov 2025,HAP,,29.20,511.64
 27th November 2025.PDF,1,11 Nov 2025,VDC-HICKEYS PHARMA,,4.50,507.14
-27th November 2025.PDF,2,Personal Bank Account,,,,
-27th November 2025.PDF,2,"Statement of Account with Allied Irish Banks, p.l.c.",,,,
-27th November 2025.PDF,2,Branch National Sort Code Account Name,,,,
-27th November 2025.PDF,2,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES",,,,
-27th November 2025.PDF,2,Telephone Account Number,,,,
-27th November 2025.PDF,2,22521B101 01-6793211 91657-062,,,,
-27th November 2025.PDF,2,IANARA FERNANDES,,,,
-27th November 2025.PDF,2,94 MILLPARK Page Number Date of Statement,,,,
-27th November 2025.PDF,2,OLD NANGOR ROAD 303 27 Nov 2025,,,,
-27th November 2025.PDF,2,CLONDALKIN,,,,
-27th November 2025.PDF,2,DUBLIN 22,,,,
-27th November 2025.PDF,2,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe",,,,
-27th November 2025.PDF,2,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron,,,,
-27th November 2025.PDF,2,ourwebsite-www.aib.ie,,,,
-27th November 2025.PDF,2,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D),,,,
-27th November 2025.PDF,2,Authorised Limit At Date Of Statement: Nil,,,,
-27th November 2025.PDF,2,Date Details Debit € Credit € Balance €,,,,
+
 27th November 2025.PDF,2,17 Nov 2025 BALANCE FORWARD 368.71,,,,
 27th November 2025.PDF,2,Interest Rate,,,,
 27th November 2025.PDF,2,Lending @ 11.850%,,,,
