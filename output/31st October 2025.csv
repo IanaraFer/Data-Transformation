@@ -1,41 +1,18 @@
-﻿SourceFile,PageNumber,Col1
-31st October 2025.PDF,1,Personal Bank Account
-31st October 2025.PDF,1,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,1,Branch National Sort Code Account Name
-31st October 2025.PDF,1,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,1,Telephone Account Number
-31st October 2025.PDF,1,67989A101 01-6793211 91657-062
-31st October 2025.PDF,1,IANARA FERNANDES
-31st October 2025.PDF,1,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,1,OLD NANGOR ROAD 294 Forward
-31st October 2025.PDF,1,CLONDALKIN
-31st October 2025.PDF,1,DUBLIN 22
-31st October 2025.PDF,1,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,1,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,1,ourwebsite-www.aib.ie
-31st October 2025.PDF,1,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,1,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,1,31 Jul 2025 BALANCE FORWARD 937.82
-31st October 2025.PDF,1,1 Aug 2025 Interest Rate
-31st October 2025.PDF,1,Lending @ 11.850%
+Account, page, date, describe, debit, credit, balance
 31st October 2025.PDF,1,D/D CLUBWISE SOFTW 48.00
 31st October 2025.PDF,1,IE25073129233224 889.82
 31st October 2025.PDF,1,5 Aug 2025 V165158435050825NA 140.00
-31st October 2025.PDF,1,IE25080432686374
 31st October 2025.PDF,1,VDP-Revolut**9877* 200.00
 31st October 2025.PDF,1,HAP 29.20
 31st October 2025.PDF,1,D/D THREE IRELAND 62.07
-31st October 2025.PDF,1,IE25080433448146
 31st October 2025.PDF,1,VDC-DUNNES CLONDAL 55.73
 31st October 2025.PDF,1,VDC-MCDONALDS 7025 5.65 677.17
 31st October 2025.PDF,1,6 Aug 2025 *MOBI THEO CRECHE 155.62
 31st October 2025.PDF,1,VDC-CIRCLE K CITY 50.00 471.55
 31st October 2025.PDF,1,7 Aug 2025 V165179435070825NA 294.00
-31st October 2025.PDF,1,IE25080736552149
 31st October 2025.PDF,1,VDC-MCDONALDS 7025 18.35 747.20
 31st October 2025.PDF,1,11 Aug 2025 HAP 29.20
 31st October 2025.PDF,1,D/D Electric Irela 134.70
-31st October 2025.PDF,1,IE25080635600794
 31st October 2025.PDF,1,VDC-KIDS SPACE RAT 3.90
 31st October 2025.PDF,1,VDC-KIDS SPACE RAT 15.50
 31st October 2025.PDF,1,VDC-LIDL DUBLIN - 44.89
@@ -44,50 +21,21 @@
 31st October 2025.PDF,1,13 Aug 2025 VDC-DUNNES CLONDAL 49.02
 31st October 2025.PDF,1,VDC-MCDONALDS 7025 9.65 431.10
 31st October 2025.PDF,1,14 Aug 2025 V165179435140825NA 294.00
-31st October 2025.PDF,1,IE25081443152175
 31st October 2025.PDF,1,*MOBI RENT MILLPAR 250.00 475.10
-31st October 2025.PDF,1,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,1,www.aib.ie/standardconditions
-31st October 2025.PDF,1,Overdrawn balances are marked dr
-31st October 2025.PDF,1,Thank you for banking with us.
-31st October 2025.PDF,1,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,2,Personal Bank Account
-31st October 2025.PDF,2,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,2,Branch National Sort Code Account Name
-31st October 2025.PDF,2,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,2,Telephone Account Number
-31st October 2025.PDF,2,67989B101 01-6793211 91657-062
-31st October 2025.PDF,2,IANARA FERNANDES
-31st October 2025.PDF,2,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,2,OLD NANGOR ROAD 295 Forward
-31st October 2025.PDF,2,CLONDALKIN
-31st October 2025.PDF,2,DUBLIN 22
-31st October 2025.PDF,2,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,2,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,2,ourwebsite-www.aib.ie
-31st October 2025.PDF,2,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,2,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,2,15 Aug 2025 BALANCE FORWARD 475.10
-31st October 2025.PDF,2,Interest Rate
-31st October 2025.PDF,2,Lending @ 11.850%
 31st October 2025.PDF,2,VDC-MORE 4 LESS 5.00 470.10
 31st October 2025.PDF,2,18 Aug 2025 VDP-NETFLIX INTERN 10.99
 31st October 2025.PDF,2,HAP 29.20
 31st October 2025.PDF,2,D/D eFlow 124.03
-31st October 2025.PDF,2,IE25081442700671
 31st October 2025.PDF,2,VDC-BOOKSTATION TH 18.85 287.03
 31st October 2025.PDF,2,19 Aug 2025 *ATMLDG C'DALKIN A 170.00
-31st October 2025.PDF,2,RENT
 31st October 2025.PDF,2,VDP-OOOSCH 2.99 454.04
 31st October 2025.PDF,2,20 Aug 2025 VDP-Revolut**9877* 150.00 304.04
 31st October 2025.PDF,2,21 Aug 2025 V165179435210825NA 294.00
 31st October 2025.PDF,2,IE25082150031315 598.04
 31st October 2025.PDF,2,22 Aug 2025 VDA-Point Cash ATM 150.00
-31st October 2025.PDF,2,D22 XD37
 31st October 2025.PDF,2,21AUG25 16:27 448.04
 31st October 2025.PDF,2,25 Aug 2025 HAP 29.20
 31st October 2025.PDF,2,D/D NAPS LOAN AIB 290.63
-31st October 2025.PDF,2,IE25081545098272
 31st October 2025.PDF,2,D/D ROYAL LONDON 64.03
 31st October 2025.PDF,2,IE25082049360828 64.18
 31st October 2025.PDF,2,26 Aug 2025 VDP-MYIQ.COM/EU 14.99
@@ -98,39 +46,12 @@
 31st October 2025.PDF,2,IE25082858219971 296.11
 31st October 2025.PDF,2,1 Sep 2025 HAP 29.20
 31st October 2025.PDF,2,VDC-CAYBEACH CALET 9.00 257.91
-31st October 2025.PDF,2,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,2,www.aib.ie/standardconditions
-31st October 2025.PDF,2,Overdrawn balances are marked dr
-31st October 2025.PDF,2,Thank you for banking with us.
-31st October 2025.PDF,2,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,3,Personal Bank Account
-31st October 2025.PDF,3,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,3,Branch National Sort Code Account Name
-31st October 2025.PDF,3,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,3,Telephone Account Number
-31st October 2025.PDF,3,67989C101 01-6793211 91657-062
-31st October 2025.PDF,3,IANARA FERNANDES
-31st October 2025.PDF,3,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,3,OLD NANGOR ROAD 296 Forward
-31st October 2025.PDF,3,CLONDALKIN
-31st October 2025.PDF,3,DUBLIN 22
-31st October 2025.PDF,3,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,3,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,3,ourwebsite-www.aib.ie
-31st October 2025.PDF,3,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,3,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,3,1 Sep 2025 BALANCE FORWARD 257.91
-31st October 2025.PDF,3,Interest Rate
-31st October 2025.PDF,3,Lending @ 11.850%
 31st October 2025.PDF,3,VDC-TAXI LM 19 350 4.35 253.56
 31st October 2025.PDF,3,2 Sep 2025 V165158435020925NA 140.00
-31st October 2025.PDF,3,IE25090204070044
 31st October 2025.PDF,3,*MOBI CARD IANAR 90.00 303.56
 31st October 2025.PDF,3,4 Sep 2025 V165179435040925NA 294.00
-31st October 2025.PDF,3,IE25090406826907
 31st October 2025.PDF,3,*MOBI THEO SCHOOL 155.62 441.94
 31st October 2025.PDF,3,5 Sep 2025 D/D THREE IRELAND 56.53
-31st October 2025.PDF,3,IE25090406970784
 31st October 2025.PDF,3,VDC-Avolta FUE BUY 5.05
 31st October 2025.PDF,3,VDC-CIRCLE K NEWLA 30.00
 31st October 2025.PDF,3,VDC-DUNNES CLONDAL 108.14 242.22
@@ -148,34 +69,9 @@
 31st October 2025.PDF,3,VDC-LIDL DUBLIN - 43.07
 31st October 2025.PDF,3,VDC-SQ *PACKS BBQ 10.00
 31st October 2025.PDF,3,VDC-SUMUP *MR SOF 2.00 25.98
-31st October 2025.PDF,3,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,3,www.aib.ie/standardconditions
-31st October 2025.PDF,3,Overdrawn balances are marked dr
-31st October 2025.PDF,3,Thank you for banking with us.
-31st October 2025.PDF,3,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,4,Personal Bank Account
-31st October 2025.PDF,4,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,4,Branch National Sort Code Account Name
-31st October 2025.PDF,4,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,4,Telephone Account Number
-31st October 2025.PDF,4,67989D101 01-6793211 91657-062
-31st October 2025.PDF,4,IANARA FERNANDES
-31st October 2025.PDF,4,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,4,OLD NANGOR ROAD 297 Forward
-31st October 2025.PDF,4,CLONDALKIN
-31st October 2025.PDF,4,DUBLIN 22
-31st October 2025.PDF,4,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,4,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,4,ourwebsite-www.aib.ie
-31st October 2025.PDF,4,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,4,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,4,17 Sep 2025 BALANCE FORWARD 25.98
-31st October 2025.PDF,4,Interest Rate
-31st October 2025.PDF,4,Lending @ 11.850%
 31st October 2025.PDF,4,D/D eFlow 84.83
 31st October 2025.PDF,4,IE25091617903104 58.85dr
 31st October 2025.PDF,4,18 Sep 2025 V165179435180925NA 294.00
-31st October 2025.PDF,4,IE25091820635396
 31st October 2025.PDF,4,VDP-NETFLIX.COM 10.99 224.16
 31st October 2025.PDF,4,22 Sep 2025 HAP 29.20
 31st October 2025.PDF,4,*MOBI CARD IANAR 100.00 94.96
@@ -183,96 +79,37 @@
 31st October 2025.PDF,4,D/D ROYAL LONDON 64.03
 31st October 2025.PDF,4,IE25091821160888 15.94
 31st October 2025.PDF,4,25 Sep 2025 IANARA ARAUJO FERN 50.00
-31st October 2025.PDF,4,IE25092560396409
-31st October 2025.PDF,4,TxnDate: 25Sep2025
 31st October 2025.PDF,4,V165179435250925NA 327.00
-31st October 2025.PDF,4,IE25092527966918
 31st October 2025.PDF,4,D/D NAPS LOAN AIB 290.63
 31st October 2025.PDF,4,IE25092223655392 102.31
 31st October 2025.PDF,4,26 Sep 2025 D/D Electric Irela 64.16
-31st October 2025.PDF,4,IE25092325021702
 31st October 2025.PDF,4,VDC-SUMUP *MR SOF 3.00 35.15
 31st October 2025.PDF,4,29 Sep 2025 HAP 29.20
 31st October 2025.PDF,4,FEE-QTR TO 29AUG25 22.05
 31st October 2025.PDF,4,933384-91657062 16.10dr
 31st October 2025.PDF,4,1 Oct 2025 IANARA ARAUJO FERN 30.00
-31st October 2025.PDF,4,IE25100160648604
 31st October 2025.PDF,4,TxnDate: 01Oct2025 13.90
-31st October 2025.PDF,4,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,4,www.aib.ie/standardconditions
-31st October 2025.PDF,4,Overdrawn balances are marked dr
-31st October 2025.PDF,4,Thank you for banking with us.
-31st October 2025.PDF,4,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,5,Personal Bank Account
-31st October 2025.PDF,5,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,5,Branch National Sort Code Account Name
-31st October 2025.PDF,5,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,5,Telephone Account Number
-31st October 2025.PDF,5,67989E101 01-6793211 91657-062
-31st October 2025.PDF,5,IANARA FERNANDES
-31st October 2025.PDF,5,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,5,OLD NANGOR ROAD 298 Forward
-31st October 2025.PDF,5,CLONDALKIN
-31st October 2025.PDF,5,DUBLIN 22
-31st October 2025.PDF,5,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,5,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,5,ourwebsite-www.aib.ie
-31st October 2025.PDF,5,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,5,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,5,2 Oct 2025 BALANCE FORWARD 13.90
-31st October 2025.PDF,5,Interest Rate
-31st October 2025.PDF,5,Lending @ 11.850%
 31st October 2025.PDF,5,V165179435021025NA 327.00
 31st October 2025.PDF,5,IE25100237085358 340.90
 31st October 2025.PDF,5,3 Oct 2025 VDC-MCDONALDS 7025 15.75 325.15
 31st October 2025.PDF,5,6 Oct 2025 PASSAT PAYMENT 3100.00
 31st October 2025.PDF,5,*MOBI TOP-UP 20.00
-31st October 2025.PDF,5,0838134468
 31st October 2025.PDF,5,*MOBI THEO SCHOOL 155.62
 31st October 2025.PDF,5,HAP 29.20
 31st October 2025.PDF,5,D/D THREE IRELAND 56.53
-31st October 2025.PDF,5,IE25100338868652
 31st October 2025.PDF,5,VDC-LIDL IRELAND 10.97 3152.83
 31st October 2025.PDF,5,7 Oct 2025 V165158435071025NA 140.00
-31st October 2025.PDF,5,IE25100741549316
 31st October 2025.PDF,5,VDP-MYIQ.COM/EU 14.99
 31st October 2025.PDF,5,VDC-DUBLIN AIRPORT 3.00 3274.84
 31st October 2025.PDF,5,8 Oct 2025 VDC-AN POST-OFFICE 2.95
 31st October 2025.PDF,5,VDC-EUROLINK MOTOR 3.50
 31st October 2025.PDF,5,VDC-EUROLINK MOTOR 3.50 3264.89
 31st October 2025.PDF,5,9 Oct 2025 IANARA ARAUJO FERN 2900.00
-31st October 2025.PDF,5,IE25100961147981
-31st October 2025.PDF,5,TxnDate: 09Oct2025
 31st October 2025.PDF,5,V165179435091025NA 327.00
-31st October 2025.PDF,5,IE25100944499218
 31st October 2025.PDF,5,ATM CLONDALKIN 1 900.00
-31st October 2025.PDF,5,09OCT25 TIME 12:59
 31st October 2025.PDF,5,VDP-Just Eat Irela 47.47
 31st October 2025.PDF,5,WITHDRAWAL 5000.00 544.42
-31st October 2025.PDF,5,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,5,www.aib.ie/standardconditions
-31st October 2025.PDF,5,Overdrawn balances are marked dr
-31st October 2025.PDF,5,Thank you for banking with us.
-31st October 2025.PDF,5,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,6,Personal Bank Account
-31st October 2025.PDF,6,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,6,Branch National Sort Code Account Name
-31st October 2025.PDF,6,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,6,Telephone Account Number
-31st October 2025.PDF,6,67989F101 01-6793211 91657-062
-31st October 2025.PDF,6,IANARA FERNANDES
-31st October 2025.PDF,6,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,6,OLD NANGOR ROAD 299 Forward
-31st October 2025.PDF,6,CLONDALKIN
-31st October 2025.PDF,6,DUBLIN 22
-31st October 2025.PDF,6,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,6,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,6,ourwebsite-www.aib.ie
-31st October 2025.PDF,6,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,6,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,6,9 Oct 2025 BALANCE FORWARD 544.42
-31st October 2025.PDF,6,Interest Rate
-31st October 2025.PDF,6,Lending @ 11.850%
+
 31st October 2025.PDF,6,D/D Electric Irela 137.02
 31st October 2025.PDF,6,IE25100640831592
 31st October 2025.PDF,6,VDC-NYA*Gough Brot 1.00 406.40
@@ -289,42 +126,14 @@
 31st October 2025.PDF,6,VDC-EUROLINK MOTOR 3.50
 31st October 2025.PDF,6,VDC-SUMUP *MR SOF 7.50 277.00
 31st October 2025.PDF,6,14 Oct 2025 IANARA ARAUJO FERN 300.00
-31st October 2025.PDF,6,IE25101461493587
-31st October 2025.PDF,6,TxnDate: 14Oct2025
 31st October 2025.PDF,6,*MOBI RENT MILLPAR 250.00
 31st October 2025.PDF,6,VDC-DUNNES CLONDAL 143.66 183.34
 31st October 2025.PDF,6,15 Oct 2025 VDC-FUNKY MONKEYS 6.80
 31st October 2025.PDF,6,VDC-FUNKY MONKEYS 8.60
 31st October 2025.PDF,6,VDC-FUNKY MONKEYS 20.00 147.94
 31st October 2025.PDF,6,16 Oct 2025 V165179435161025NA 327.00
-31st October 2025.PDF,6,IE25101651028712
 31st October 2025.PDF,6,VDP-SMYTHS TOYS FO 61.97 412.97
-31st October 2025.PDF,6,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,6,www.aib.ie/standardconditions
-31st October 2025.PDF,6,Overdrawn balances are marked dr
-31st October 2025.PDF,6,Thank you for banking with us.
-31st October 2025.PDF,6,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,7,Personal Bank Account
-31st October 2025.PDF,7,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,7,Branch National Sort Code Account Name
-31st October 2025.PDF,7,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,7,Telephone Account Number
-31st October 2025.PDF,7,67989G101 01-6793211 91657-062
-31st October 2025.PDF,7,IANARA FERNANDES
-31st October 2025.PDF,7,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,7,OLD NANGOR ROAD 300 Forward
-31st October 2025.PDF,7,CLONDALKIN
-31st October 2025.PDF,7,DUBLIN 22
-31st October 2025.PDF,7,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,7,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,7,ourwebsite-www.aib.ie
-31st October 2025.PDF,7,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,7,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,7,16 Oct 2025 BALANCE FORWARD 412.97
-31st October 2025.PDF,7,Interest Rate
-31st October 2025.PDF,7,Lending @ 11.850%
-31st October 2025.PDF,7,D/D eFlow 52.93
-31st October 2025.PDF,7,IE25101448520649
+31st October 2025.PDF,7,D/D eFlow 52.9
 31st October 2025.PDF,7,VDC-DUNDRUM CAR PA 3.70 356.34
 31st October 2025.PDF,7,17 Oct 2025 VDC-CIRCLE K NEWLA 20.00
 31st October 2025.PDF,7,VDC-EUROGIANT CLON 12.00 324.34
@@ -343,51 +152,15 @@
 31st October 2025.PDF,7,22 Oct 2025 VDC-DUNDRUM CAR PA 3.70
 31st October 2025.PDF,7,VDC-NYA*Coillte CG 6.00 20.72
 31st October 2025.PDF,7,23 Oct 2025 V165179435231025NA 327.00
-31st October 2025.PDF,7,IE25102358046197
 31st October 2025.PDF,7,D/D ROYAL LONDON 64.03
 31st October 2025.PDF,7,IE25102055039956 283.69
 31st October 2025.PDF,7,24 Oct 2025 *MOBI CARD IANAR 180.00
 31st October 2025.PDF,7,VDC-CIRCLE K NEWLA 50.00 53.69
 31st October 2025.PDF,7,28 Oct 2025 IANARA ARAUJO FERN 315.00
-31st October 2025.PDF,7,IE25102762870555
 31st October 2025.PDF,7,TxnDate: 26Oct2025 368.69
-31st October 2025.PDF,7,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,7,www.aib.ie/standardconditions
-31st October 2025.PDF,7,Overdrawn balances are marked dr
-31st October 2025.PDF,7,Thank you for banking with us.
-31st October 2025.PDF,7,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
-31st October 2025.PDF,8,Personal Bank Account
-31st October 2025.PDF,8,"Statement of Account with Allied Irish Banks, p.l.c."
-31st October 2025.PDF,8,Branch National Sort Code Account Name
-31st October 2025.PDF,8,"7/12 Dame Street,Dublin 2 93-33-84 IANARA FERNANDES"
-31st October 2025.PDF,8,Telephone Account Number
-31st October 2025.PDF,8,67989H101 01-6793211 91657-062
-31st October 2025.PDF,8,IANARA FERNANDES
-31st October 2025.PDF,8,94 MILLPARK Page Number Date of Statement
-31st October 2025.PDF,8,OLD NANGOR ROAD 301 31 Oct 2025
-31st October 2025.PDF,8,CLONDALKIN
-31st October 2025.PDF,8,DUBLIN 22
-31st October 2025.PDF,8,"ThisisaneligibledepositundertheDepositGuaranteeScheme.Formoreinformation,pleaseseethe"
-31st October 2025.PDF,8,'DepositGuaranteeScheme-DepositorInformationSheet'whichisavailablefromyourbranchoron
-31st October 2025.PDF,8,ourwebsite-www.aib.ie
-31st October 2025.PDF,8,IBAN: IE13 AIBK 9333 8491 6570 62 (BIC: AIBKIE2D)
-31st October 2025.PDF,8,Authorised Limit At Date Of Statement: Nil
-31st October 2025.PDF,8,Date Details Debit € Credit € Balance €
-31st October 2025.PDF,8,28 Oct 2025 BALANCE FORWARD 368.69
-31st October 2025.PDF,8,Interest Rate
-31st October 2025.PDF,8,Lending @ 11.850%
 31st October 2025.PDF,8,HAP 29.20
 31st October 2025.PDF,8,D/D NAPS LOAN AIB 290.63
-31st October 2025.PDF,8,IE25102256708777
 31st October 2025.PDF,8,VDC-Decathlon Ball 40.00 8.86
 31st October 2025.PDF,8,30 Oct 2025 V165179435301025NA 327.00
-31st October 2025.PDF,8,IE25103005484640
 31st October 2025.PDF,8,VDC-JUSTTIP 0.25 335.61
 31st October 2025.PDF,8,31 Oct 2025 LN 93338491657658 1500.00 1835.61
-31st October 2025.PDF,8,ForImportantInformationandStandardConditionsregardingyouraccountlogonto
-31st October 2025.PDF,8,www.aib.ie/standardconditions
-31st October 2025.PDF,8,"YourAuthorisedLimitissubjecttothetermsandconditionsreferredtoinyourletterofsanction,"
-31st October 2025.PDF,8,"(includinganyset-off,ifapplicable)."
-31st October 2025.PDF,8,Overdrawn balances are marked dr
-31st October 2025.PDF,8,Thank you for banking with us.
-31st October 2025.PDF,8,"AlliedIrishBanks,p.l.c.isregulatedbytheCentralBankofIreland."
